@@ -6,11 +6,11 @@
 .container_cbd271,
 .member_cbd271,
 .members_cbd271 {
-    background: transparent;
+    background: 1;
 }
 .container_c2739c,
 .chat_a7d72e {
-    background: var(--background-transparent);
+    background: url("https://images.hdqwalls.com/download/kawaii-neon-anime-girl-jr-1920x1080.jpg");
 }
 
 /* Background Image */
@@ -22,7 +22,7 @@
     height: 100%;
     position: absolute;
     filter: blur(var(--bg-blur));
-    background-image: var(--bg-image);
+    background-image: url("https://images.hdqwalls.com/download/kawaii-neon-anime-girl-jr-1920x1080.jpg");
     background-size: cover;
     background-position: center;
 }
