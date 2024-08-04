@@ -52,7 +52,7 @@
     --bg-gradient1: #e297b2;
     --bg-gradient2: #c0b4d5;
     --bg-gradient3: #54b5de;
-    --bg-image: ("https://images.hdqwalls.com/download/kawaii-neon-anime-girl-jr-1920x1080.jpg"); /* Write the image url, example url("your url") [none is default]*/
+    --bg-image: ("https://cdn.discordapp.com/attachments/1204847549970911252/1269577556563333120/kawaii-neon-anime-girl-jr-1920x1080.jpg?ex=66b091bd&is=66af403d&hm=133b0d92e5f4c77b41e7a512b3f9eb9b7315afdf5f4841a528de71e2ca0d8e00&"); /* Write the image url, example url("your url") [none is default]*/
     --opacity: 0; /* Value in numbers from 0 to 1, but there is a limit */
     --bg-blur: 6px; /* Value in px */
 
@@ -79,7 +79,7 @@
     --streaming-color: #bdb2ff;
 
     /* Chatbar Colors */
-    --textarea-background: #F0F2F2;
+    --textarea-background: #e6aab4;
     --text-color: #313D40;
     --icon-color: var(--text-color);
     --selected-text-bg: var(--text-color);
