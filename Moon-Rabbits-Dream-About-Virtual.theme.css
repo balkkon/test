@@ -52,7 +52,7 @@
     --bg-gradient1: #e297b2;
     --bg-gradient2: #c0b4d5;
     --bg-gradient3: #54b5de;
-    --bg-image: (https://images.hdqwalls.com/download/kawaii-neon-anime-girl-jr-1920x1080.jpg); /* Write the image url, example url("your url") [none is default]*/
+    --bg-image: "https://images.hdqwalls.com/download/kawaii-neon-anime-girl-jr-1920x1080.jpg"; /* Write the image url, example url("your url") [none is default]*/
     --opacity: 0; /* Value in numbers from 0 to 1, but there is a limit */
     --bg-blur: 6px; /* Value in px */
 
