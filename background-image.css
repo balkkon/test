@@ -22,7 +22,7 @@
     height: 100%;
     position: absolute;
     filter: blur(var(--bg-blur));
-    background-image: var(--bg-image);
+    background-image: url('https://images.hdqwalls.com/download/kawaii-neon-anime-girl-jr-1920x1080.jpg');
     background-size: cover;
     background-position: center;
 }
